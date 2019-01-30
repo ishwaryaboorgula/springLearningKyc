@@ -1,0 +1,5 @@
+com\kyc\configuration\KycConfiguration.class
+com\kyc\bean\Address.class
+com\kyc\bean\Person.class
+com\kyc\configuration\KycAppInitializer.class
+com\kyc\controller\KycInidividualController.class
